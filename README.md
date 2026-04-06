@@ -2,31 +2,29 @@
 
 Senior Full-Stack Engineer specializing in React, Node.js, and AWS.
 
+I build scalable web applications, real-time systems, and MVPs for startups and businesses.
+
+---
+
 ## 🚀 What I Do
-- Build scalable web applications
-- Develop real-time systems (chat, notifications)
-- Create MVPs for startups and businesses
+- Build full-stack web applications from idea to production  
+- Develop real-time features (chat, notifications, live data)  
+- Optimize and fix underperforming systems  
+
+---
 
 ## 🛠 Tech Stack
-- React / Next.js
-- Node.js / Express
-- AWS (Lambda, S3, DynamoDB)
-- JavaScript / TypeScript
+- React / Next.js  
+- Node.js / Express  
+- AWS (Lambda, S3, DynamoDB)  
+- JavaScript / TypeScript  
+
+---
+
+## 📂 Current Focus
+Building scalable applications and expanding into healthcare technology systems.
+
+---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/tierra-jackson-577ba3400## Hi there 👋
-
-<!--
-**tierrajackson/tierrajackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/tierra-jackson-577ba3400
